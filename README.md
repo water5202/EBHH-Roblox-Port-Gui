@@ -3,4 +3,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Water075/EBHH-Roblox-
 
 
 
-[!alttext](https://i.ibb.co/cSvzL9BN/EBHH1-0-0-FUCKERS.png)
+![alt text](https://i.ibb.co/cSvzL9BN/EBHH1-0-0-FUCKERS.png)
