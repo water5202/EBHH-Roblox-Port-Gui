@@ -1,6 +1,13 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wall%20v3"))()
 local w = library:CreateWindow("EBHH")
 local b = w:CreateFolder("(v1.0.0)")
+local StarterGui = game:GetService("StarterGui")
+
+StarterGui:SetCore("SendNotification", {
+    Title = "Made by Water.5202!",
+    Text = "Thanks for using the script :D!",
+    Duration = 3
+})
 
 local attackid = false
 local autoselectid = false
@@ -8,7 +15,6 @@ local attackdr = false
 local autoselectdr = false
 
 b:Button("Auto Select ID", function()
-    print("Auto Select ID activated")
     autoselectid = true
     task.spawn(function()
         while autoselectid do
@@ -30,7 +36,6 @@ b:Button("Auto Select ID", function()
 end)
 
 b:Button("Auto Attack ID", function()
-    print("idattackactive")
     attackid = true
     task.spawn(function()
         while attackid do
@@ -68,7 +73,6 @@ b:Button("Auto Select DR_A", function()
 end)
 
 b:Button("Auto Attack DR_A", function()
-    print("drattackactive")
     attackdr = true
     task.spawn(function()
         while attackdr do
