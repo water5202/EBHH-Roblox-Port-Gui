@@ -4,7 +4,7 @@ Wally v3 is the script library credits to the creators
 #
 Please don't abuse this gui to ruin other peoples fun<br>
 
-</n>
+
 ![alt text](https://img.shields.io/badge/WaterUtils-blue)
 
 ![alt text](https://i.ibb.co/cSvzL9BN/EBHH1-0-0-FUCKERS.png)
