@@ -1,6 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Water075/EBHH-Roblox-Port-Gui/refs/heads/main/main.lua"))()
-
-Wally v3 is the script library credits to the creators
 #
 Please don't abuse this gui to ruin other peoples fun<br>
 
